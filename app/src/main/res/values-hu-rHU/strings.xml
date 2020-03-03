@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProdSnap</string>
+    <string name="customer_details">Vásárló adatai</string>
+    <string name="submit">Bevitel</string>
+    <string name="bar_code">Vonalkód</string>
+    <string name="item_count_pcs">db</string>
+    <string name="discard_basket">Biztos el akarod dobni a kosarat?</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="item_count_text">Darabszám:</string>
+    <string name="invalid_basket_item">Ismeretlen termék</string>
+    <string name="ok">OK</string>
+    <string name="item_name">Termék neve</string>
+    <string name="customer_details_missing">A vásárló adatai hiányoznak</string>
+    <string name="could_not_transfer_basket">A kosarat nem sikerült elküldeni</string>
+    <string name="item_details_server">Termék adatbázis címe</string>
+    <string name="password">Jelszó</string>
+    <string name="username">Felhasználónév</string>
+    <string name="could_not_fetch_configuration">Nem sikerült a beállítások letöltése</string>
+    <string name="new_user_name">Új felhasználó neve</string>
+    <string name="could_not_rebuild_cache">Nem sikerült betölteni a termékek adatait</string>
+    <string name="cache_rebuild_text">Gyorsítótár betöltése</string>
+</resources>

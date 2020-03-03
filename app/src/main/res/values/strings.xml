@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProdSnap</string>
+    <string name="customer_details">Customer details</string>
+    <string name="bar_code">Bar code</string>
+    <string name="submit">Submit</string>
+    <string name="item_count_pcs">pcs</string>
+    <string name="item_count_text">Item count:</string>
+    <string name="discard_basket">Would you like to discard everything from the basket?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="invalid_basket_item">Invalid basket item</string>
+    <string name="ok">OK</string>
+    <string name="item_name">Item name</string>
+    <string name="customer_details_missing">Customer details are missing</string>
+    <string name="could_not_transfer_basket">Could not transfer basket</string>
+    <string name="item_details_server">Item detail server</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="could_not_fetch_configuration">Could not fetch configuration</string>
+    <string name="new_user_name">Name of the new user</string>
+    <string name="could_not_rebuild_cache">Could not resolve cache</string>
+    <string name="cache_rebuild_text">Initializing cache</string>
+</resources>
